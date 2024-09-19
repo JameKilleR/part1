@@ -1,0 +1,19 @@
+h1{
+    color: salmon;
+    font-family: 'Courier New', Courier, monospace
+    
+}
+h1:hover{
+    color: red;
+}
+
+button{
+    color: rgb(18, 100, 5);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15pt;
+    
+}
+button:hover{
+    color: red;
+    
+}
